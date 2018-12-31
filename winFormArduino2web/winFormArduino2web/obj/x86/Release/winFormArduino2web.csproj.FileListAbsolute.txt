@@ -1,0 +1,7 @@
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\bin\Release\winFormArduino2web.exe
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\bin\Release\winFormArduino2web.pdb
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Release\winFormArduino2web.Form1.resources
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Release\winFormArduino2web.Properties.Resources.resources
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Release\winFormArduino2web.csproj.GenerateResource.Cache
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Release\winFormArduino2web.exe
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Release\winFormArduino2web.pdb

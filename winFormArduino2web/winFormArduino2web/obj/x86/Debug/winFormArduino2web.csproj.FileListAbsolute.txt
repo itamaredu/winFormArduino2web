@@ -1,0 +1,8 @@
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\bin\Debug\winFormArduino2web.exe
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\bin\Debug\winFormArduino2web.pdb
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.Form1.resources
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.Properties.Resources.resources
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.csproj.GenerateResource.Cache
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.exe
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.pdb
+C:\Users\EDU\Google Drive\C#\winFormArduino2web\winFormArduino2web\obj\x86\Debug\winFormArduino2web.csprojResolveAssemblyReference.cache
