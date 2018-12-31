@@ -34,7 +34,7 @@ namespace winFormArduino2web
         string tag2 = "</tblData>";
         string tag3 = "field";
         string tag4 = "field";
-        string outFileName="../../data_from_arduino.txt";
+        string outFileName="./data_from_arduino.txt";
         
 
 
@@ -168,7 +168,7 @@ namespace winFormArduino2web
         private void Write2File(string fileName,string str)
         {
             bool append = true;
-            sw = new StreamWriter("../../data_from_arduino.txt", append);
+            sw = new StreamWriter(fileName, append);
             sw.WriteLine(str);
             sw.Flush();
             sw.Close();
